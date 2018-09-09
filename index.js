@@ -1,5 +1,5 @@
 function theBeatlesPlay(musicians,instruments){
-  var array = 
+  var array = musicians.instruments
   return $[`musicians`] 'plays' $[`instruments`]
   for 
 
