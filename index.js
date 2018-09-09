@@ -1,5 +1,7 @@
 function theBeatlesPlay(musicians,instruments){
-  var musicians = {
+  var array = for  
+  
+  musicians = {
     'John Lennon plays': ['guitar']
 }
 }
