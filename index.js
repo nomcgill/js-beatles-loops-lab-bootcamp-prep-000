@@ -3,7 +3,7 @@ function theBeatlesPlay(musicians, instruments){
  var who = musicians.length
  
   for (var i = 0; i < who; i++)
-  {decision.push[musicians[who] + "plays" + instruments[who]
+  {decision.push(musicians[i] + "plays" + instruments[i]
   }
 return decision
   }
