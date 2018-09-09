@@ -1,3 +1,3 @@
 function theBeatlesPlay(musicians,instruments){
-  return console.log($[`musicians`][`instruments`])
+  return console.log($[`musicians`]$[`instruments`])
 }
