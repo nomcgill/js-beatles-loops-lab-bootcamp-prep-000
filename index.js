@@ -1,7 +1,8 @@
 function theBeatlesPlay(musicians, instruments){
  var plays = " plays ";
+ var who = parseInt(musicians.length)
 
-  for (var who = musicians.length; who < 5; who++)
-  {$[`musicians`] + plays + $[`instruments`]
+  for (who; who < 5; who++)
+  {musicians[who] + plays + instruments[who]
   }
 }
