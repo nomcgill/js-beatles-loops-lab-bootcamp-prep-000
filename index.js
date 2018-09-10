@@ -19,7 +19,7 @@ return decision
   }
   
   function iLoveTheBeatles(){
-    letsdothis = []
+    const letsdothis = []
     var parameter = parameter + 1
   }
     do {
