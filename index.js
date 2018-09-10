@@ -9,5 +9,5 @@ return decision
   }
   
   function johnLennonFacts(facts){
-    
+    while
   }
