@@ -18,3 +18,9 @@ return decision
     return facts2
   }
   
+  function iLoveTheBeatles(){
+    letsdothis = []
+    
+    do
+    while 
+  }
