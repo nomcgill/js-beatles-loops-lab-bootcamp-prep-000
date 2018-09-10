@@ -21,10 +21,10 @@ return decision
   function iLoveTheBeatles(){
     const letsdothis = []
     const parameter = parameter + 1
-  }
     do {
       letsdothis.push("I love the Beatles!")
       iLoveTheBeatles()
     }
     while (parameter < 15) 
   return letsdothis
+  }
