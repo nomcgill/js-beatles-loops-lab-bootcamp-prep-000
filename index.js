@@ -9,5 +9,6 @@ return decision
   }
   
   function johnLennonFacts(facts){
-    while
+    var facts2 = []
+    
   }
