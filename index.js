@@ -10,7 +10,7 @@ return decision
   
   function johnLennonFacts(facts){
     var facts2 = []
-    i 
+    var i = 0
     while (facts.length > i){
       
     }
