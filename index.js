@@ -13,5 +13,6 @@ return decision
     var i = 0
     while (facts.length > i){
       facts2.push(facts[i] + "!!!")
+      i++
     }
   }
