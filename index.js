@@ -20,7 +20,7 @@ return decision
   
   function iLoveTheBeatles(){
     letsdothis = []
-    var parameter = 
+    var parameter = parameter + 1
     
     do {
       letsdothis.push("I love the Beatles!")
