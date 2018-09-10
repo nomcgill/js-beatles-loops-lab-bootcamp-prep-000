@@ -20,9 +20,12 @@ return decision
   
   function iLoveTheBeatles(){
     letsdothis = []
+    var parameter = 
     
     do {
       
     }
-    while () 
+    while (parameter < 15) 
+  
+  return letsdothis
   }
