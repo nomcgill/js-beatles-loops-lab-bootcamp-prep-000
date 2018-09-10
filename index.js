@@ -15,4 +15,5 @@ return decision
       facts2.push(facts[i] + "!!!")
       i++
     }
+    return facts2
   }
