@@ -21,6 +21,8 @@ return decision
   function iLoveTheBeatles(){
     letsdothis = []
     
-    do
-    while 
+    do {
+      
+    }
+    while () 
   }
