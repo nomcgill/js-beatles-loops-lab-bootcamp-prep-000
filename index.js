@@ -12,6 +12,6 @@ return decision
     var facts2 = []
     var i = 0
     while (facts.length > i){
-      facts2.push(facts[i])
+      facts2.push(facts[i] + "!!!")
     }
   }
