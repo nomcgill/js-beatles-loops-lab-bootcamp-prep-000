@@ -23,7 +23,8 @@ return decision
     var parameter = 
     
     do {
-      
+      letsdothis.push("I love the Beatles!")
+      iLoveTheBeatles()
     }
     while (parameter < 15) 
   
